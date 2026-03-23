@@ -32,7 +32,7 @@ A specialized security scanner designed to detect **Tool Misuse** vulnerabilitie
 
 ---
 
-## 📖 Usage
+##  Usage
 
 ### Basic Scan (Dry Run)
 By default, the tool runs in safe mode. It simulates attacks without sending harmful payloads to production systems.
