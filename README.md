@@ -17,7 +17,6 @@ A specialized security scanner designed to detect **Tool Misuse** vulnerabilitie
 
 ### Prerequisites
 - Python 3.8+
-- Required dependencies (install via `pip install -r requirements.txt`)
 
 ### Installation
 1. Clone the repository:
@@ -25,11 +24,6 @@ A specialized security scanner designed to detect **Tool Misuse** vulnerabilitie
    git clone https://github.com/your-org/tool-misuse.git
    cd tool-misuse
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 ##  Usage
